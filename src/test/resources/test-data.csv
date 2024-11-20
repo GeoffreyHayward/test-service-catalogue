@@ -1,158 +1,161 @@
-Personal Demographics Service
-Message Exchange for Social Care and Health (MESH)
-National Care Records Service
-National Record Locator
-Cohorting as a Service (CaaS)
-NHS App
-Patient Care Aggregator
-e-Referral Service
-Booking and Referral Standard
-NHS 111 online
-NHS Pathways
-Personal Health Records adoption service
-Calculating Quality Reporting Service
-General Practice Extraction Service
-National Events Management Service
-GP2GP
-GP Connect
-Terminology server
-Digital Child Health
-Register with a GP surgery
-National data opt-out
-Summary Care Record (SCR)
-Reasonable Adjustment Flag
-Child Protection - Information Sharing
-Female Genital Mutilation - Information Sharing (FGM-IS)
-Summary Care Record application (SCRa)
-Organisation Data Service
-Care Identity Service
-NHS login
-National Pandemic Flu Service
-Data Access Environment (DAE)
-NHS DigiTrials
-Electronic Prescription Service
-Transfer of Care initiative
-Emergency Department Digital Integration
-Urgent care self-service product
-NHSmail
-NHS Data Model and Dictionary Service
-Trusted Research Environment service for England
-National Casemix Office
-General Practice Data for Planning and Research
-Future Connectivity
-Health and Social Care Network
-Cyber and data security
-NHS Notify
-Primary Care Registration Management
-Cloud centre of excellence
-Bowel Cancer Screening
-Breast screening services
-Directory of Services (DoS)
-GP IT Futures systems and services
-National Cervical Screening
-NHS Profile Manager
-NHS Service Finder
-Abdominal aortic aneurysm screening
-Add or correct the contact details on your NHS record
-Adoption Registration Service
-API platform
-Artificial data
-Bureau Service Portal
-Care integration and orchestration
-Data landing Portal
-Data Security and Protection Toolkit
-Data Services for Commissioners (DSfC)
-Pharmacy, Optometry, Dentistry, Ambulance, Community (PODAC) Programme
-Digital learning solutions
-Commissioning Data Set Bureau Service
-Discharge Pathways Model
-Blueprinting
-GP Appointment Data
-Shared Care Record Programme
-Data Collection and Improvement Service
-What Good Looks Like - Digital Maturity Assessments
-Frontline Digitisation
-Health and Care Change Management Network
-eMED3 (fit note) in secondary care
-Spine
-NHAIS
-Open Exeter
-Terminology and Classifications
-Spine Directory Service
-Connecting Care Records
-Vaccinations National Booking Service
-Digital Lloyd George records
-NHS Wi-Fi
-Vaccinations Point of Care
-Partner onboarding
-Acute Data Alignment Programme (ADAPt)
-Data Registers Service
-COVID Oximetry @home - digital and data services
-GP payments
-Vaccinations Data Flow Management
-Vaccinations data dashboard
-Coronavirus (COVID-19) risk assessment
-Digital Firearms Marker
-The Clinical Safety Team
-Internet First
-Proxy application service
-Data Access Request Service (DARS)
-Innovative uses of data
-Harnessing digital technology in maternity services
-Digital supervision platform
-iView and iViewPlus
-Health Survey for England Bloodbank
-Health Surveys Service
-Clinical Audit Platform
-Health and Justice Information Services
-Hospital Episode Statistics
-IT Operations and Service Management Community
-Interoperability Toolkit
-Independent Advisory Panel on Data Release (IAPDR)
-GMS census download
-Digital Services for Integrated Care
-FHIR UK Core
-Fit note reporting
-Implementation toolkits
-National Clinical Content Repository (Copyright Licensing Service)
-ICS Implementation
-Local Service Providers
-Lipid management searches
-Medicines interoperability
-Mobile Technology Investment Toolkit
-NHS Apps Library
-NHS Business Partners
-Shielded Patient List
-Social Care Programme
-National disease registration service
-National Performers List
-Networking addressing
-Path to Live environments
-Quality and Outcomes Framework (QOF) online database
-Research Advisory Group
-Secondary Uses Service (SUS)
-Repeat Caller Service
-Respond to an NHS cyber alert
-Orphaned Records Continuity
-Interoperability Data Design Collaborative
-Prescription pricing division data
-Spend Comparison Service
-Secure Data Environment
-Strategic Data Collection Service (SDCS)
-Strategic data collection service in the cloud (SDCS Cloud)
-Trust System Support Model (TSSM)
-Tracking Database
-Transfer data securely
-NHS Data Standards Directory
-Training Quality Improvement
-National COVID Vaccine Invitation Preference Service
-NHS.UK
-Solution Assurance
-Service Management
-GP registration
-Digital minor illness referral service (DMIRS)
-Pathology standards and implementation
-National Child Measurement Programme
-NHS Digital Staff Passport
-Suspended Record Continuity
-NHS Knowledge and Library Hub
+Personal Demographics Service, /services/personal-demographics-service
+Message Exchange for Social Care and Health (MESH), /services/message-exchange-for-social-care-and-health-mesh
+National Care Records Service, /services/national-care-records-service
+National Record Locator, /services/national-record-locator
+Cohorting as a Service (CaaS), /services/cohorting-as-a-service-caas
+NHS App, /services/nhs-app
+Patient Care Aggregator, /services/patient-care-aggregator
+e-Referral Service, /services/e-referral-service
+Booking and Referral Standard, /services/booking-and-referral-standard
+NHS 111 online, /services/nhs-111-online
+NHS Pathways, /services/nhs-pathways
+Personal Health Records adoption service, /services/personal-health-records-adoption-service
+Calculating Quality Reporting Service, /services/calculating-quality-reporting-service
+General Practice Extraction Service, /services/general-practice-extraction-service
+National Events Management Service, /services/national-events-management-service
+GP2GP, /services/gp2gp
+GP Connect, /services/gp-connect
+Terminology server, /services/terminology-server
+Digital Child Health, /services/digital-child-health
+Register with a GP surgery, /services/register-with-a-gp-surgery-service
+National data opt-out, /services/national-data-opt-out
+Summary Care Record (SCR), /services/summary-care-records-scr
+Reasonable Adjustment Flag, /services/reasonable-adjustment-flag
+Child Protection - Information Sharing, /services/child-protection-information-sharing-service
+Female Genital Mutilation - Information Sharing (FGM-IS), /services/female-genital-mutilation-information-sharing
+Summary Care Record application (SCRa), /services/summary-care-record-application
+Organisation Data Service, /services/organisation-data-service
+Care Identity Service, /services/care-identity-service
+NHS login, /services/nhs-login
+National Pandemic Flu Service, /services/national-pandemic-flu-service
+Data Access Environment (DAE), /services/data-access-environment-dae
+NHS DigiTrials, /services/nhs-digitrials
+Electronic Prescription Service, /services/electronic-prescription-service
+Transfer of Care initiative, /services/transfer-of-care-initiative
+Emergency Department Digital Integration, /services/emergency-department-digital-integration
+Urgent care self-service product, /services/urgent-care-self-service-product
+NHSmail, /services/nhsmail
+NHS Data Model and Dictionary Service, /services/nhs-data-model-and-dictionary-service
+Trusted Research Environment service for England, /services/trusted-research-environment-service-for-england
+National Casemix Office, /services/national-casemix-office
+General Practice Data for Planning and Research, /data-and-information/data-collections-and-data-sets/data-collections/general-practice-data-for-planning-and-research
+Future Connectivity, /services/future-connectivity
+Health and Social Care Network, /services/health-and-social-care-network
+Cyber and data security, /cyber-and-data-security
+NHS Notify, /services/nhs-notify
+Primary Care Registration Management, /services/primary-care-registration-management
+Cloud centre of excellence, /services/cloud-centre-of-excellence
+Bowel Cancer Screening, /services/screening-services/bowel-cancer-screening-services
+Breast screening services, /services/screening-services/breast-screening-services
+Directory of Services (DoS), /services/directory-of-services-dos
+GP IT Futures systems and services, /services/digital-services-for-integrated-care/gp-it-futures-systems
+National Cervical Screening, /services/screening-services/national-cervical-screening
+NHS Profile Manager, /services/nhs-profile-manager
+NHS Service Finder, /services/nhs-service-finder
+Abdominal aortic aneurysm screening, /services/screening-services/abdominal-aortic-aneurysm-screening
+Add or correct the contact details on your NHS record, /services/add-or-correct-the-contact-details-on-your-nhs-record
+Adoption Registration Service, /services/adoption-registration-service
+API platform, /services/api-platform
+Artificial data, /services/artificial-data
+Bureau Service Portal, /services/bureau-service-portal
+Care integration and orchestration, /services/care-integration-and-orchestration
+Data landing Portal, /services/data-landing-portal
+Data Security and Protection Toolkit, /data-and-information/looking-after-information/data-security-and-information-governance/data-security-and-protection-toolkit
+Data Services for Commissioners (DSfC), /services/data-services-for-commissioners
+"Pharmacy, Optometry, Dentistry, Ambulance, Community (PODAC) Programme", /services/podac
+Digital learning solutions, /services/digital-learning-solutions
+Commissioning Data Set Bureau Service, /services/commissioning-data-set-bureau-service
+Discharge Pathways Model, /services/discharge-pathways-model
+Blueprinting, /services/blueprinting
+GP Appointment Data, /services/gp-appointment-data
+Shared Care Record Programme, /services/shared-care-record-programme
+Data Collection and Improvement Service, /services/data-collection-and-improvement-service
+What Good Looks Like - Digital Maturity Assessments, /services/what-good-looks-like---digital-maturity-assessments
+Frontline Digitisation, /services/frontline-digitisation
+Health and Care Change Management Network, /services/health-and-care-change-management-network
+eMED3 (fit note) in secondary care, /services/emed3-fit-note-in-secondary-care
+Spine, /services/spine
+NHAIS, /services/nhais
+Open Exeter, /services/open-exeter
+Terminology and Classifications, /services/terminology-and-classifications
+Spine Directory Service, /services/spine-directory-service
+Connecting Care Records, /services/connecting-care-records
+Vaccinations National Booking Service, /services/vaccinations-national-booking-service
+Digital Lloyd George records, /services/digital-lloyd-george-records
+NHS Wi-Fi, /services/nhs-wifi
+Vaccinations Point of Care, /services/vaccinations-point-of-care
+Partner Onboarding, /services/partner-onboarding
+Acute Data Alignment Programme (ADAPt), /services/acute-data-alignment-programme
+Data Registers Service, /services/data-registers-service
+COVID Oximetry @home - digital and data services, /services/covid-oximetry-at-home
+GP payments, /services/gp-payments
+Vaccinations Data Flow Management, /services/vaccinations-data-flow-management
+Vaccinations data dashboard, /dashboards/vaccinations-data-dashboard
+Coronavirus (COVID-19) risk assessment, /services/coronavirus-risk-assessment
+Digital Firearms Marker, /services/digital-firearms-marker
+The Clinical Safety Team, /services/clinical-safety
+Internet First, /services/internet-first
+Proxy application service, /services/proxy-application-service
+Data Access Request Service (DARS), /services/data-access-request-service-dars
+Innovative uses of data, /data-and-information/data-tools-and-services/data-services/innovative-uses-of-data
+Harnessing digital technology in maternity services, /services/digital-maternity-programme
+Digital supervision platform, /services/digital-supervision-platform
+iView and iViewPlus, /services/iview-and-iviewplus
+Health Survey for England Bloodbank, /services/health-survey-for-england-bloodbank
+Health Surveys Service, /services/health-surveys-service
+Clinical Audit Platform, /services/clinical-audit-platform
+Health and Justice Information Services, /services/health-and-justice-information-services
+Hospital Episode Statistics, /data-and-information/data-tools-and-services/data-services/hospital-episode-statistics
+IT Operations and Service Management Community, /services/it-operations-and-service-management-community
+Interoperability Toolkit, /services/interoperability-toolkit
+Independent Advisory Panel on Data Release (IAPDR), /services/independent-advisory-panel-on-data-release
+GMS census download, /services/gms-census-download
+Digital Services for Integrated Care, /services/digital-services-for-integrated-care
+FHIR UK Core, /services/fhir-uk-core
+Fit note reporting, /services/fit-note-reporting
+Implementation toolkits, /services/falsified-medicines-directive-fmd
+National Clinical Content Repository (Copyright Licensing Service), /services/national-clinical-content-repository-copyright-licensing-service
+ICS Implementation, /services/ics-implementation
+Local Service Providers, /services/local-service-providers
+Lipid management searches, /services/lipid-management-searches
+Medicines interoperability, /services/digital-and-interoperable-medicines
+Mobile Technology Investment Toolkit, /services/mobile-technology-investment-toolkit
+NHS Apps Library, /services/nhs-apps-library
+NHS Business Partners, /services/nhs-business-partners
+Shielded Patient List, /services/high-risk-shielded-patients
+Social Care Programme, /services/social-care-programme
+National disease registration service, /services/national-disease-registration-service
+National Performers List, /services/national-performers-list
+Networking addressing, /services/networking-addressing
+Path to Live environments, /services/path-to-live-environments
+Quality and Outcomes Framework (QOF) online database, /services/quality-and-outcomes-framework-qof-online-database
+Research Advisory Group, /services/research-advisory-group/archived-pages
+Secondary Uses Service (SUS), /services/secondary-uses-service-sus
+Repeat Caller Service, /services/repeat-caller-service
+Respond to an NHS cyber alert, /services/respond-to-an-nhs-cyber-alert
+Orphaned Records Continuity, /services/orphaned-records-continuity
+Interoperability Data Design Collaborative, /services/idd-collaborative
+Prescription pricing division data, /services/prescription-pricing-division-data
+Spend Comparison Service, /data-and-information/data-collections-and-data-sets/data-collections/spend-comparison-service
+Secure Data Environment, /services/secure-data-environment-service
+Strategic Data Collection Service (SDCS), /services/strategic-data-collection-service-sdcs
+Strategic data collection service in the cloud (SDCS Cloud), /services/strategic-data-collection-service-in-the-cloud-sdcs-cloud
+Trust System Support Model (TSSM), /services/trust-system-support-model-tssm
+Tracking Database, /services/tracking-database
+Transfer data securely, /services/transfer-data-securely
+NHS Data Standards Directory, /services/nhs-data-standards-directory
+Training Quality Improvement, /services/training-quality-improvement
+National COVID Vaccine Invitation Preference Service, /services/national-covid-vaccination-invitation-preference-service
+NHS.UK, /services/nhs.uk
+Solution Assurance, /services/solution-assurance
+Service Management, /services/service-management
+GP registration, /services/guides/gp-registration
+Digital minor illness referral service (DMIRS), /services/digital-minor-illness-referral-service
+Pathology standards and implementation, /services/pathology-standards-and-implementation
+National Child Measurement Programme, /services/national-child-measurement-programme
+NHS Digital Staff Passport, /services/digital-staff-passport
+Suspended Record Continuity, /services/suspended-record-continuity
+NHS Knowledge and Library Hub, /services/nhs-knowledge-and-library-hub
+NHS Digital service manual, https://service-manual.nhs.uk/
+Model Health, https://model.nhs.uk/
+Solving Together, https://solvingtogether.crowdicity.com/
